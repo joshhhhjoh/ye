@@ -1,5 +1,5 @@
 function e(){
-  navigator.clipboard.writeText("__.____._______.__._")
+  navigator.clipboard.writeText("____.___.__.____.____.___._")
 
   document.getElementById('s').style.backgroundImage = "url('wow.jpeg')"
   document.getElementById('s').style.backgroundSize = "cover"
